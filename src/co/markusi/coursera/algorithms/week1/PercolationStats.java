@@ -1,4 +1,4 @@
-package co.markusi.coursera.algorithms.percolation;
+package co.markusi.coursera.algorithms.week1;
 
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
