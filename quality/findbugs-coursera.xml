@@ -125,9 +125,9 @@
        <BugPattern name="HE_EQUALS_USE_HASHCODE" />
      </Match>
 
-     <!-- Exclude compare() by slope order in Point.java on collinear assignment -->
+     <!-- Exclude compare() by slope order in co.markusi.coursera.algorithms.week3.Point.java on collinear assignment -->
      <!-- It produces a warning even though it properly handles NaN              -->
-     <Match classregex="Point.*" >
+     <Match classregex="co.markusi.coursera.algorithms.week3.Point.*" >
        <BugPattern name="CO_COMPARETO_INCORRECT_FLOATING" />
      </Match>
 
