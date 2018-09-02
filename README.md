@@ -32,3 +32,11 @@ Each week has it's own package. Alongside files required for submission, package
 | Correctness   | 41/41 tests passed
 | Memory        | 1/1 tests passed
 | Timing        | 41/41 tests passed
+
+* **Week 4: 8 Puzzle** : 100/100
+
+| Test          | Result
+| --------------|:-------------
+| Correctness   | 49/49 tests passed
+| Memory        | 21/22 tests passed
+| Timing        | 125/125 tests passed
