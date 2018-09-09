@@ -40,3 +40,11 @@ Each week has it's own package. Alongside files required for submission, package
 | Correctness   | 49/49 tests passed
 | Memory        | 21/22 tests passed
 | Timing        | 125/125 tests passed
+
+* **Week 5: Kd-Trees** : 97/100
+
+| Test          | Result
+| --------------|:-------------
+| Correctness   | 34/36 tests passed
+| Memory        | 16/16 tests passed
+| Timing        | 42/42 tests passed
